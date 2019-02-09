@@ -1,6 +1,6 @@
 # Look360_GPSutil
 
-## progress
+## Progress of Project
 - [ ] install flashbuilder
 - [ ] compare GPS tracking app
 	- [ ] make criteria
