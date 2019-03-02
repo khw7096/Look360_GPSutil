@@ -12,3 +12,4 @@
 - [x] install flashbuilder
 - [ ] compare GPS tracking app
 	- [ ] [make criteria](https://github.com/baesy0/Look360_GPSutil/blob/master/docs/appCriteria.md)
+- [ ] [decide file format - GPX, GeoJson, KML]()
